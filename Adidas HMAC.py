@@ -1,11 +1,5 @@
 import time
-import sys
-import os
-import random
-import readline
-import re
-import syslog
-import binascii
+
 
 
 print("This is a HMAC Generator for Adidas UK")
